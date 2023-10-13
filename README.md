@@ -1,2 +1,2 @@
-# drawing-numbers
-Drawing random numbers
+# drawing-numbers in python
+Drawing random numbers in python. 
